@@ -7,6 +7,7 @@ Development Involved:
 * Implementing new methods to support floating point arithmetic operations using method overloading.
 * Fixing bugs introduced by the implementation of new arithmetic features in the calculator.
 
+
 <img width="362" alt="Calculator_Display" src="https://github.com/SoumyaMehta/Basic-Calculator/assets/69056406/dc4d6217-9bf3-448f-86f2-16a818fef3bc">
 
 # Pre-requisites
